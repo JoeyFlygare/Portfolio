@@ -13,8 +13,13 @@ body {
     font-family: 'EB Garamond', serif;;
 }
 
-main{
+.col-bg{
     background-color: white;
+    height: 90%
+}
+
+.contact-form{
+    height: 90%;
 }
 
 h1{
@@ -23,9 +28,18 @@ h1{
     font-weight: 600;
 }
 
+form{
+    height: 100%;
+}
+
 p {
     letter-spacing: 2px;
     font-family: 'Raleway', sans-serif;
+}
+
+.send{
+    color: white;
+    background-color: teal;
 }
 
 footer{
