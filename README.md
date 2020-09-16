@@ -8,7 +8,9 @@ The purpose of this assignment was to show my abilities to use bootstrap layouts
 
 ### Content
 * Working Navbar
+
     <img src="http://g.recordit.co/nF8sGmjCEO.gif" alt="" width="250" height="250">
+
 * Responsive Page
 
 * Sticky Footer
