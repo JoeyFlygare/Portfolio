@@ -3,7 +3,7 @@
 ### Intro
 This is  the beggining of the construction of my portfolio for my porjects through coding BCS and my own personal projects.
 
-<img src="./assets/Capture.png" alt="nav bar function" width="250" height="250">  
+<img src="https://raw.githubusercontent.com/JoeyFlygare/Responsive-Portfolio/master/assets/Capture.PNG" alt="Portfolio site" width="250" height="250">  
 
 ### Assignment
 The purpose of this assignment was to show my abilities to use bootstrap layouts and styling as well as semantic html and css stylings to create a rough blueprint for a personal works portfolio.
