@@ -13,7 +13,7 @@ The purpose of this assignment was to show my abilities to use bootstrap layouts
 
 * Responsive Page
 
-    <img src="http://g.recordit.co/unFBO5Loi2.gif" alt="resize function" width="250" height="250">
+    <img src="http://g.recordit.co/1x60DI3EAR.gif" alt="resize function" width="250" height="250">
 
 * Sticky Footer
 
