@@ -7,11 +7,11 @@ This is  the beggining of the construction of my portfolio for my porjects throu
 The purpose of this assignment was to show my abilities to use bootstrap layouts and styling as well as semantic html and css stylings to create a rough blueprint for a personal works portfolio.
 
 ### Content
-*Working Navbar
+* Working Navbar
     <img src="http://g.recordit.co/nF8sGmjCEO.gif" alt="" width="250" height="250">
-*Responsive Page
+* Responsive Page
 
-*Sticky Footer
+* Sticky Footer
 
 ### URL
 
