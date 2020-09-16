@@ -15,7 +15,6 @@ body {
 
 .col-bg{
     background-color: white;
-    height: 90%
 }
 
 .contact-form{
@@ -28,13 +27,17 @@ h1{
     font-weight: 600;
 }
 
-form{
-    height: 100%;
-}
+/* Font spacing for index page */
 
 p {
     letter-spacing: 2px;
     font-family: 'Raleway', sans-serif;
+}
+
+/* For contact page labels */
+
+label{
+    font-weight: bold;
 }
 
 .send{
