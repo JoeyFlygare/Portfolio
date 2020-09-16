@@ -9,18 +9,23 @@ The purpose of this assignment was to show my abilities to use bootstrap layouts
 ### Content
 * Working Navbar
 
-    <img src="http://g.recordit.co/nF8sGmjCEO.gif" alt="" width="250" height="250">
+    <img src="http://g.recordit.co/nF8sGmjCEO.gif" alt="nav bar function" width="250" height="250">
 
 * Responsive Page
 
+    <img src="http://g.recordit.co/unFBO5Loi2.gif" alt="resize function" width="250" height="250">
+
 * Sticky Footer
+
+    <img src="http://g.recordit.co/xVyUtuJepS.gif" alt="resize function" width="250" height="250">
 
 ### URL
 
+https://joeyflygare.github.io/Responsive-Portfolio/
 
 #### Author
 
 **Joseph Flygare**
-I made this.
-Gaze upon it with awe.
-It is glorious.
+- I made this.
+- Gaze upon it with awe.
+- It is glorious.
