@@ -1,33 +1,16 @@
-# Responsive Portfolio
+[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
+![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
 
-### Intro
-This is  the beggining of the construction of my portfolio for my porjects through coding BCS and my own personal projects.
 
-<img src="https://raw.githubusercontent.com/JoeyFlygare/Responsive-Portfolio/master/assets/Capture.PNG" alt="Portfolio site" width="250" height="250">  
+A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
-### Assignment
-The purpose of this assignment was to show my abilities to use bootstrap layouts and styling as well as semantic html and css stylings to create a rough blueprint for a personal works portfolio.
+## Preview
+![Preview](https://image.ibb.co/e5uBf0/Capture.png)
 
-### Content
-* Working Navbar
+## How to use
+1. Clone/Download the repo.
+2. Run  ``` npm install ```.
+3. Change the values in ```src/resumeData.js``` to suit your use-case.
+4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
+5. Make required changes in ```src/resumeData.js``` to suit your needs.
 
-    <img src="http://g.recordit.co/nF8sGmjCEO.gif" alt="nav bar function" width="250" height="250">
-
-* Responsive Page
-
-    <img src="http://g.recordit.co/1x60DI3EAR.gif" alt="resize function" width="250" height="250">
-
-* Sticky Footer
-
-    <img src="http://g.recordit.co/xVyUtuJepS.gif" alt="resize function" width="250" height="250">
-
-### URL
-
-https://joeyflygare.github.io/Responsive-Portfolio/
-
-#### Author
-
-**Joseph Flygare**
-- I made this.
-- Gaze upon it with awe.
-- It is glorious.
