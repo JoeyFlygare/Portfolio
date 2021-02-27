@@ -1,34 +1,31 @@
 
+# Timed-Javascript-Quiz
+
 
 ![GitHub top language](https://img.shields.io/github/languages/top/kbnewlon/project3) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/badge/license-MIT_License-yellowgreen)
 
 
 ## Description
-This project was a timed quiz on basic JavaScript knowledge. It uses two html page to complete this using bootstrap for basic styling. Using timers, for loops, and eventListeners to complete the function of the quiz creating its buttons for each set of answers on each of the questions and was able to store the scores outside of local storage and append it to a scores list that sorts high to low scores.
+This is a portfolio website constructed by me for potential employers or clients to peruse my work and get into contact with me. It was built using the amazing frontend framework known as React.js.
 
 
 ## **Table of Contents**
 
 1. [Usage](#usage)
 2. [License](#license)
-3. [Framework](#framework)
-4. [Contributors](#contributors)
-5. [Technologies](#technologies)
-6. [Visuals](#visuals)
-7. [Demos](#demos)
-8. [Links](#links)
+3. [Contributors](#contributors)
+4. [Technologies](#technologies)
+5. [Visuals](#visuals)
+6. [Demos](#demos)
+7. [Links](#links)
 
 
 ## **Usage**
-To use this quiz simply stroll over to the deployed site at  https://joeyflygare.github.io/Timed-Javascript-Quiz/
+Here is a link to the site if you'd like to have a gander! https://joeyflygare.github.io/Responsive-Portfolio/
 
 
 ## **License**
 Copyright (c) 2021, Joseph Flygare
-
-
-## **Frameworks**
-Built with Bootstrap
 
 
 ## **Contributors**
@@ -46,5 +43,4 @@ Joseph Flygare
 Contact our team at jayfly64@gmail.com for any questions 
 
 ## **Visuals**
-![screenshot](assets/Capture.PNG)
-https://joeyflygare.github.io/Timed-Javascript-Quiz/
+![screenshot](public/images/portfolio/screenshot.png)
