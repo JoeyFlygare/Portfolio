@@ -285,7 +285,7 @@ ul#nav li.current a { color: #1FFCDB; }
 /*	Skill Bars
 /*----------------------------------------------*/
 
-.bars {
+/* .bars {
 	width: 95%;
 	float: left;
 	padding: 0;
@@ -302,15 +302,15 @@ ul#nav li.current a { color: #1FFCDB; }
   	height: 42px;
   	border-radius: 3px;
 }
-.bars li em {
+/* .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
-}
+	top: -36px; */
+/* }
 .bar-expand {
    position: absolute;
    left: 0;
@@ -323,9 +323,9 @@ ul#nav li.current a { color: #1FFCDB; }
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
-}
+} */ 
 
-.photoshop {
+/* .photoshop {
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
@@ -359,10 +359,10 @@ ul#nav li.current a { color: #1FFCDB; }
    width: 50%;
    -moz-animation: react 2s ease;
    -webkit-animation: react 2s ease;
-}
+} */
 
 
-@-moz-keyframes photoshop {
+/* @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
@@ -415,7 +415,7 @@ ul#nav li.current a { color: #1FFCDB; }
    0%   { width: 0px;  }
    100% { width:50%;  }
  }
- 
+  */
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section

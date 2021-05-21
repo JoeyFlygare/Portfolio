@@ -4,7 +4,7 @@ let resumeData = {
   role: "Fullstack Web Developer/ Software Engineer",
   linkedinId: "https://www.linkedin.com/in/joseph-flygare-6611a31b5/",
   roleDescription:
-    " I enjoy using my experience with fullstack to create an immersive user experience, or simply play games in my free time.",
+    " I enjoy using my experience with fullstack to create an immersive user experience, leveraging my experience from all my previous jobs to provide a unique perspective in technology industry.",
   socialLinks: [
     {
       name: "linkedin",
@@ -23,8 +23,9 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am currently attending a fullstack web development boot camp through University of Washington and Trilogy. I am constantly striving to learn new technologies to make myself as valuable as possible.",
+    "I am a full stack web developer boot camp through University of Washington and Trilogy. I am constantly striving to learn new technologies to make myself as valuable as possible.",
   address: "Tacoma, WA.",
+  email: "jayfly64@gmail.com",
   website: "https://github.com/JoeyFlygare",
   education: [
     {
@@ -49,26 +50,29 @@ let resumeData = {
     {
       skillname: "React",
     },
+    {
+      skillname: "MongoDB",
+    },
   ],
   portfolio: [
     {
       name: "Panda Patter",
-      description: "Flash card Translator app",
+      description: "Flash card Translator app - Uses React.js, Firebase, MongoDB, RESTapi, and custom CSS",
       imgurl: "images/portfolio/image.png",
     },
     {
       name: "The Night Planner",
-      description: "A way to spice up your covid lockdown nights",
+      description: "A way to spice up your covid lockdown nights - Uses Javascript, HTML, Bulma, and CSS",
       imgurl: "images/portfolio/night_planner.png",
     },
     {
       name: "JavaScript Knowledge Quiz",
-      description: "Timed quiz",
+      description: "Timed quiz on your Javascript knowledge - Uses Javascript, HTML, Bootstrap, and CSS",
       imgurl: "images/portfolio/Capture.PNG",
     },
     {
       name: "Weather Dashboard",
-      description: "A fun little weather dash alternative",
+      description: "A fun little weather dash alternative - Uses Bootstrap, Javascript, HTML, and CSS",
       imgurl: "images/portfolio/Capture1.PNG",
     },
   ],
