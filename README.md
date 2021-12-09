@@ -21,7 +21,7 @@ This is a portfolio website constructed by me for potential employers or clients
 
 
 ## **Usage**
-Here is a link to the site if you'd like to have a gander! https://joeyflygare.github.io/Responsive-Portfolio/
+Here is a link to the site if you'd like to have a gander! https://joeyflygare.github.io/Portfolio/
 
 
 ## **License**
